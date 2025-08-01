@@ -1,0 +1,7 @@
+print(3 + 5)
+print(3 * 99)
+print(22-21)
+print(3**5)
+print(7/9)
+print(8//6)
+print(8%6)
