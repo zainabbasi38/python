@@ -1,0 +1,6 @@
+countries = ("China", "Spain", "Germany", "France", "Italy", "Greece", "Pakistan")
+print(countries.count("China"))
+lst = list(countries)
+print(lst)
+a = lst.append("China")
+print(a)
